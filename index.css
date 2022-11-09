@@ -1,120 +1,26 @@
-*{
-    font-family:"Roboto Mono";
-    font-size: 10px;
-    text-align: center;
+
+
+
+
+header nav {
+    margin: 0 auto;
+    width: 200vw;
+    
 }
-
-h1{
-    font-family: "Chelsea Market";
-    font-size: 20px;
-    text-align: center;
-}
-
-
 
 header nav a{
- color: white;
- background-color: #5ED3EB;
- border-radius: 12px;
- padding: 10px 20px;
- margin: 10px 5%;
- text-align: center;
- text-decoration: none;
-}
-
-header{
-    margin-top:30px;
-}
-
-header nav{
-    margin: 0 auto;
-    width: 50vw;
-}
-
-header nav a:last-child {
-    background-color:#FFCD69;
-    margin-right: 0;
-    margin-left: 10%;
-}
-
-header nav a:first-child{
-    background-color:#FF764E;
-    margin-left: 0;
-    margin-right: 10%;
-}
-
-.div-ortalama{
-    width: 20%;
-    display:inline-block;
-}
-
-.div-ortalama:last-child{
-    width: 60%;
-    text-align: center;
-    padding-bottom: 30px;
-}
-
-img{
-    width: 10vw;
-    height: 10vw;
-    border-radius: 90px;;
-}
-
-.container{
-    width: 700px;
-    margin: auto auto;
-}
-
-.bg-bej{
-    background-color:#DDB9A3;
-    color:white;
-    text-align: center;
-}
-
-.section{
-    margin-top: 50px;
-    vertical-align: top ;
-}
-
-.balon img{
-    width: 10%;
-}
-
-.balon p{
-    width: 30%;
-    margin: auto auto;
-    text-align: center;
-}
-
-
-footer nav a{
     color: white;
     background-color: #5ED3EB;
-    border-radius: 12px;
+    border-radius: 20px; 
     padding: 10px 20px;
     margin: 10px 5%;
     text-align: center;
-    text-decoration: none;
-}
+  }
 
-footer{
-    margin-top:30px;
-    background-color:#F9E7DC ;
-}
-   
-footer nav{
-    margin: 0 auto;
-    width: 50vw;
-}
+  header nav a:first-child{
+    background-color: #FF764E;
+  }
 
-footer nav a:last-child {
-    background-color:#FFCD69;
-    margin-right: 0;
-    margin-left: 10%;
-}
-
-footer nav a:first-child{
-    background-color:#FF764E;
-    margin-left: 0;
-    margin-right: 10%;
-}
+  header nav a:last-child{
+        background-color: #FFCD69;
+  }
